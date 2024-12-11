@@ -3,11 +3,10 @@ hello nahin
 qwerwiognsdnvnlkvnklvnksndf nwegngsg
 
 
-<<<<<<< HEAD
-czvbxbxvncnxcbncxnxcn
-=======
 czvbxbxvncnxcbncxnxcn
 
 
-all new porject
->>>>>>> cbd85fc00b55f56091c7e79cf8d905fbf844887e
+all new porjec
+
+
+nahin
