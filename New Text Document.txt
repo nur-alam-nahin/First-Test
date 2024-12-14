@@ -37,3 +37,18 @@ This Juneteenth marked a milestone with a distinctive Honor
  just through geography,
  but through history and honor, as well.
 >>>>>>> nahin
+<<<<<<< HEAD
+=======
+
+/*********************************************************************/
+
+
+Debates on climate change are often dominated by heated commentary from the West on its impending peril calling
+ it the biggest threat humanity has ever faced. But here in Bangladesh, climate change is not a threat – it is a
+n ongoing reality.  In our reality, it is a slow compounding of already familiar struggles.
+
+The worst impacts from climate change, in the form of heat stress, increased salinity, and erratic rainfall, 
+play out within familiar struggles. They include calls for fair wages and working conditions. Improvements 
+needed in the working environment  include a heightened need for water breaks and cooling – especially for 
+those working outside or in enclosed cooking areas. These needs have now intensified in a hotter climate. 
+>>>>>>> nahin
